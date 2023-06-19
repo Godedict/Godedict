@@ -50,9 +50,9 @@
 
   <h3 align="center">GitHub Statistics:</h3>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Godedict&show_icons=true&theme=vue&locale=en" alt="Dammy" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Godedict&show_icons=true&theme=vue&locale=en" alt="Nile" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AGodedict&theme=vue-dark" alt="Dammy" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gradient" alt="Nile" /></p>
 # Show your support! ⭐
   Thank you for visiting my profile, if you like any of my projects, I appreciate your support by giving it a :star:.
 <!--
