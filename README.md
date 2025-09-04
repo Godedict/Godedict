@@ -1,6 +1,6 @@
 ### Hi there, I'm Lucas <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
 
-<p><em>Lucas is an aspiring full-stack developer with a passion for creating innovative and user-centric web applications.</em> 🎉 </p>
+<p><em>Lucas is a full-stack developer with a passion for creating innovative and user-centric web applications.</em> 🎉 </p>
 
 <div align="right">
   
